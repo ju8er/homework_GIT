@@ -1,5 +1,4 @@
 # homework_GIT
-
-Feature branch changes
+for conflicts Feature branch changes
 
 
