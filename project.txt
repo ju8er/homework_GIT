@@ -1,4 +1,2 @@
-<<<<<<< HEAD
-Project file content111
-=======
 
+Project file also updated => resolve conflicts
