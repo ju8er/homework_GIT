@@ -1,4 +1,6 @@
 # homework_GIT
-for conflicts Feature branch changes
+
+newFeature2 branch changes
+
 
 
