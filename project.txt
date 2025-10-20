@@ -1,1 +1,1 @@
-Project file also updated
+Project file also updated => resolve conflicts
