@@ -1,5 +1,5 @@
 # homework_GIT
 
-Feature branch changes
+newFeature3 branch changes
 
 
